@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#142035"/>
+      <stop offset=".64" stop-color="#0a0c10"/>
+      <stop offset="1" stop-color="#22140e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="706" cy="120" r="82" fill="#d8ad45" opacity=".18"/>
+  <g transform="translate(170 95)">
+    <path d="M280 0 L230 62 L330 62 Z" fill="#d8ad45"/>
+    <path d="M140 96 L420 96 L370 155 L190 155 Z" fill="#0d0d0c" stroke="#d8ad45" stroke-width="5"/>
+    <path d="M95 180 L465 180 L405 255 L155 255 Z" fill="#0d0d0c" stroke="#d8ad45" stroke-width="5"/>
+    <rect x="210" y="62" width="140" height="265" fill="#e8dfcf"/>
+    <rect x="172" y="155" width="216" height="190" fill="#d4ccbd"/>
+    <rect x="132" y="255" width="296" height="118" fill="#efe8d9"/>
+    <path d="M92 374 L470 374 L510 455 L52 455 Z" fill="#10100f" stroke="#d8ad45" stroke-width="5"/>
+  </g>
+  <path d="M0 575 C210 525 380 600 560 555 C700 520 800 536 900 560 L900 700 L0 700 Z" fill="#061018"/>
+</svg>

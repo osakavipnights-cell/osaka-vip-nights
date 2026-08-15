@@ -1,0 +1,490 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Osaka Local Guide | Private Tours in Osaka</title>
+    <meta
+      name="description"
+      content="Discover Osaka with a friendly local guide. Food, culture, nightlife and hidden gems tailored to your trip."
+    >
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <header class="site-header" data-header>
+      <a class="brand" href="#home" data-scroll>
+        <span class="brand-mark" aria-hidden="true">
+          <span></span>
+          <span></span>
+          <span></span>
+        </span>
+        <span class="brand-copy">
+          <span class="brand-title" data-i18n="brand.name"></span>
+          <span class="brand-subtitle" data-i18n="brand.tagline"></span>
+        </span>
+      </a>
+
+      <button
+        class="nav-toggle"
+        type="button"
+        aria-controls="site-nav"
+        aria-expanded="false"
+        data-i18n-attr="aria-label:nav.openMenu"
+      >
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav id="site-nav" class="site-nav" data-i18n-attr="aria-label:nav.primary">
+        <ul class="nav-list">
+          <li><a href="#home" data-scroll data-i18n="nav.home"></a></li>
+          <li><a href="#about" data-scroll data-i18n="nav.about"></a></li>
+          <li><a href="#services" data-scroll data-i18n="nav.services"></a></li>
+          <li><a href="#pricing" data-scroll data-i18n="nav.pricing"></a></li>
+          <li><a href="#how-it-works" data-scroll data-i18n="nav.how"></a></li>
+          <li><a href="#gallery" data-scroll data-i18n="nav.gallery"></a></li>
+          <li><a href="#reviews" data-scroll data-i18n="nav.reviews"></a></li>
+          <li><a href="#faq" data-scroll data-i18n="nav.faq"></a></li>
+          <li><a href="#contact" data-scroll data-i18n="nav.contact"></a></li>
+        </ul>
+
+        <div class="language-switcher" data-i18n-attr="aria-label:language.label" role="group">
+          <button type="button" data-lang="en">EN</button>
+          <button type="button" data-lang="ja">日本語</button>
+          <button type="button" data-lang="zh">中文</button>
+          <button type="button" data-lang="ko">한국어</button>
+        </div>
+
+        <a class="button button--gold header-cta" href="#contact" data-scroll data-i18n="common.contactUs"></a>
+      </nav>
+    </header>
+
+    <main>
+      <section id="home" class="home section">
+        <img
+          class="home-image"
+          src="images/home/dotonbori-night.jpg"
+          alt=""
+          data-i18n-attr="alt:images.hero"
+        >
+        <div class="home-shade" aria-hidden="true"></div>
+        <div class="home-content reveal">
+          <p class="eyebrow" data-i18n="home.eyebrow"></p>
+          <h1>
+            <span data-i18n="home.titleTop"></span>
+            <strong data-i18n="home.titleHighlight"></strong>
+          </h1>
+          <p class="lead" data-i18n="home.description"></p>
+          <div class="home-actions">
+            <a class="button button--gold" href="#contact" data-scroll data-i18n="common.contactUs"></a>
+            <a class="button button--ghost" href="#services" data-scroll data-i18n="home.secondaryCta"></a>
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="section section--split">
+        <div class="container split-grid">
+          <figure class="image-frame reveal">
+            <img src="images/about/osaka-castle-guide.jpg" alt="" data-i18n-attr="alt:images.about">
+          </figure>
+          <div class="section-copy reveal">
+            <p class="eyebrow" data-i18n="about.eyebrow"></p>
+            <h2 data-i18n="about.title"></h2>
+            <p data-i18n="about.description"></p>
+            <div class="feature-list">
+              <article class="mini-feature">
+                <span class="feature-icon" aria-hidden="true">L</span>
+                <h3 data-i18n="about.features.local.title"></h3>
+                <p data-i18n="about.features.local.text"></p>
+              </article>
+              <article class="mini-feature">
+                <span class="feature-icon" aria-hidden="true">S</span>
+                <h3 data-i18n="about.features.safe.title"></h3>
+                <p data-i18n="about.features.safe.text"></p>
+              </article>
+              <article class="mini-feature">
+                <span class="feature-icon" aria-hidden="true">C</span>
+                <h3 data-i18n="about.features.custom.title"></h3>
+                <p data-i18n="about.features.custom.text"></p>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="services" class="section section--band">
+        <div class="container">
+          <div class="section-heading reveal">
+            <p class="eyebrow" data-i18n="services.eyebrow"></p>
+            <h2 data-i18n="services.title"></h2>
+            <p data-i18n="services.description"></p>
+          </div>
+
+          <div class="service-grid">
+            <article class="service-card reveal">
+              <img src="images/services/sightseeing.jpg" alt="" data-i18n-attr="alt:images.services.sightseeing">
+              <div class="card-body">
+                <h3 data-i18n="services.items.sightseeing.title"></h3>
+                <p data-i18n="services.items.sightseeing.text"></p>
+              </div>
+            </article>
+            <article class="service-card reveal">
+              <img src="images/services/local-food.jpg" alt="" data-i18n-attr="alt:images.services.food">
+              <div class="card-body">
+                <h3 data-i18n="services.items.food.title"></h3>
+                <p data-i18n="services.items.food.text"></p>
+              </div>
+            </article>
+            <article class="service-card reveal">
+              <img src="images/services/nightlife.jpg" alt="" data-i18n-attr="alt:images.services.nightlife">
+              <div class="card-body">
+                <h3 data-i18n="services.items.nightlife.title"></h3>
+                <p data-i18n="services.items.nightlife.text"></p>
+              </div>
+            </article>
+            <article class="service-card reveal">
+              <img src="images/services/cultural.jpg" alt="" data-i18n-attr="alt:images.services.cultural">
+              <div class="card-body">
+                <h3 data-i18n="services.items.cultural.title"></h3>
+                <p data-i18n="services.items.cultural.text"></p>
+              </div>
+            </article>
+            <article class="service-card reveal">
+              <img src="images/services/custom.jpg" alt="" data-i18n-attr="alt:images.services.custom">
+              <div class="card-body">
+                <h3 data-i18n="services.items.custom.title"></h3>
+                <p data-i18n="services.items.custom.text"></p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="pricing" class="section">
+        <div class="container">
+          <div class="section-heading reveal">
+            <p class="eyebrow" data-i18n="pricing.eyebrow"></p>
+            <h2 data-i18n="pricing.title"></h2>
+            <p data-i18n="pricing.description"></p>
+          </div>
+
+          <div class="pricing-layout">
+            <div class="pricing-grid">
+              <!-- TODO: Replace temporary prices after final pricing is confirmed. -->
+              <article class="price-card reveal">
+                <h3 data-i18n="pricing.plans.half.title"></h3>
+                <p class="duration" data-i18n="pricing.plans.half.duration"></p>
+                <p class="price" data-i18n="pricing.plans.half.price"></p>
+                <ul>
+                  <li data-i18n="pricing.plans.half.point1"></li>
+                  <li data-i18n="pricing.plans.half.point2"></li>
+                  <li data-i18n="pricing.plans.half.point3"></li>
+                </ul>
+                <a class="button button--gold" href="#contact" data-scroll data-i18n="common.contactUs"></a>
+              </article>
+              <article class="price-card price-card--featured reveal">
+                <span class="badge" data-i18n="pricing.popular"></span>
+                <h3 data-i18n="pricing.plans.full.title"></h3>
+                <p class="duration" data-i18n="pricing.plans.full.duration"></p>
+                <p class="price" data-i18n="pricing.plans.full.price"></p>
+                <ul>
+                  <li data-i18n="pricing.plans.full.point1"></li>
+                  <li data-i18n="pricing.plans.full.point2"></li>
+                  <li data-i18n="pricing.plans.full.point3"></li>
+                </ul>
+                <a class="button button--gold" href="#contact" data-scroll data-i18n="common.contactUs"></a>
+              </article>
+              <article class="price-card reveal">
+                <h3 data-i18n="pricing.plans.custom.title"></h3>
+                <p class="duration" data-i18n="pricing.plans.custom.duration"></p>
+                <p class="price" data-i18n="pricing.plans.custom.price"></p>
+                <ul>
+                  <li data-i18n="pricing.plans.custom.point1"></li>
+                  <li data-i18n="pricing.plans.custom.point2"></li>
+                  <li data-i18n="pricing.plans.custom.point3"></li>
+                </ul>
+                <a class="button button--gold" href="#contact" data-scroll data-i18n="common.contactUs"></a>
+              </article>
+            </div>
+
+            <aside class="included-box reveal">
+              <div>
+                <h3 data-i18n="pricing.included.title"></h3>
+                <ul>
+                  <li data-i18n="pricing.included.item1"></li>
+                  <li data-i18n="pricing.included.item2"></li>
+                </ul>
+              </div>
+              <div>
+                <h3 data-i18n="pricing.excluded.title"></h3>
+                <ul>
+                  <li data-i18n="pricing.excluded.item1"></li>
+                  <li data-i18n="pricing.excluded.item2"></li>
+                  <li data-i18n="pricing.excluded.item3"></li>
+                </ul>
+              </div>
+              <p class="note" data-i18n="pricing.note"></p>
+            </aside>
+          </div>
+        </div>
+      </section>
+
+      <section id="how-it-works" class="section section--band">
+        <div class="container">
+          <div class="section-heading reveal">
+            <p class="eyebrow" data-i18n="how.eyebrow"></p>
+            <h2 data-i18n="how.title"></h2>
+          </div>
+          <div class="steps">
+            <article class="step-card reveal">
+              <div class="step-marker" aria-hidden="true">
+                <svg class="step-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M8 2v4"></path><path d="M16 2v4"></path><rect width="18" height="18" x="3" y="4" rx="2"></rect><path d="M3 10h18"></path><path d="m9 16 2 2 4-4"></path>
+                </svg>
+                <span class="step-number">01</span>
+              </div>
+              <h3 data-i18n="how.steps.reservation.title"></h3>
+              <p data-i18n="how.steps.reservation.text"></p>
+            </article>
+            <article class="step-card reveal">
+              <div class="step-marker" aria-hidden="true">
+                <svg class="step-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M21 15a4 4 0 0 1-4 4H8l-5 3V7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4z"></path><path d="M8 9h8"></path><path d="M8 13h5"></path>
+                </svg>
+                <span class="step-number">02</span>
+              </div>
+              <h3 data-i18n="how.steps.contact.title"></h3>
+              <p data-i18n="how.steps.contact.text"></p>
+            </article>
+            <article class="step-card reveal">
+              <div class="step-marker" aria-hidden="true">
+                <svg class="step-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M14.1 6 3 9v11l7.9-2.1"></path><path d="m14.1 6 6.9-2v11l-7.1 2"></path><path d="M10.9 18 11 7"></path><path d="m14 6-.1 11"></path>
+                </svg>
+                <span class="step-number">03</span>
+              </div>
+              <h3 data-i18n="how.steps.consultation.title"></h3>
+              <p data-i18n="how.steps.consultation.text"></p>
+            </article>
+            <article class="step-card reveal">
+              <div class="step-marker" aria-hidden="true">
+                <svg class="step-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="m5 17-2 2"></path><path d="m7 19-2 2"></path><path d="M13 6h4l4 5v6h-2"></path><path d="M3 11h10v6H9"></path><circle cx="6" cy="17" r="2"></circle><circle cx="17" cy="17" r="2"></circle><path d="M13 6V3H7v8"></path>
+                </svg>
+                <span class="step-number">04</span>
+              </div>
+              <h3 data-i18n="how.steps.pickup.title"></h3>
+              <p data-i18n="how.steps.pickup.text"></p>
+            </article>
+            <article class="step-card reveal">
+              <div class="step-marker" aria-hidden="true">
+                <svg class="step-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="m12 3-1.4 3.6L7 8l3.6 1.4L12 13l1.4-3.6L17 8l-3.6-1.4L12 3z"></path><path d="m19 13-.9 2.1L16 16l2.1.9L19 19l.9-2.1L22 16l-2.1-.9L19 13z"></path><path d="m5 14-1.1 2.9L1 18l2.9 1.1L5 22l1.1-2.9L9 18l-2.9-1.1L5 14z"></path>
+                </svg>
+                <span class="step-number">05</span>
+              </div>
+              <h3 data-i18n="how.steps.vip.title"></h3>
+              <p data-i18n="how.steps.vip.text"></p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="gallery" class="section">
+        <div class="container">
+          <div class="section-heading reveal">
+            <p class="eyebrow" data-i18n="gallery.eyebrow"></p>
+            <h2 data-i18n="gallery.title"></h2>
+          </div>
+
+          <div class="gallery-grid">
+            <figure class="gallery-item gallery-item--wide reveal">
+              <img src="images/gallery/dotonbori.jpg" alt="" data-i18n-attr="alt:images.gallery.dotonbori">
+              <figcaption data-i18n="gallery.items.dotonbori"></figcaption>
+            </figure>
+            <figure class="gallery-item reveal">
+              <img src="images/gallery/osaka-castle.jpg" alt="" data-i18n-attr="alt:images.gallery.castle">
+              <figcaption data-i18n="gallery.items.castle"></figcaption>
+            </figure>
+            <figure class="gallery-item reveal">
+              <img src="images/gallery/shinsekai.jpg" alt="" data-i18n-attr="alt:images.gallery.shinsekai">
+              <figcaption data-i18n="gallery.items.shinsekai"></figcaption>
+            </figure>
+            <figure class="gallery-item reveal">
+              <img src="images/gallery/umeda.jpg" alt="" data-i18n-attr="alt:images.gallery.umeda">
+              <figcaption data-i18n="gallery.items.umeda"></figcaption>
+            </figure>
+            <figure class="gallery-item reveal">
+              <img src="images/gallery/street-food.jpg" alt="" data-i18n-attr="alt:images.gallery.food">
+              <figcaption data-i18n="gallery.items.food"></figcaption>
+            </figure>
+            <figure class="gallery-item reveal">
+              <img src="images/gallery/izakaya.jpg" alt="" data-i18n-attr="alt:images.gallery.izakaya">
+              <figcaption data-i18n="gallery.items.izakaya"></figcaption>
+            </figure>
+            <figure class="gallery-item reveal">
+              <img src="images/gallery/shotengai.jpg" alt="" data-i18n-attr="alt:images.gallery.shotengai">
+              <figcaption data-i18n="gallery.items.shotengai"></figcaption>
+            </figure>
+            <figure class="gallery-item reveal">
+              <img src="images/gallery/skyline.jpg" alt="" data-i18n-attr="alt:images.gallery.skyline">
+              <figcaption data-i18n="gallery.items.skyline"></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <section id="reviews" class="section section--band">
+        <div class="container">
+          <div class="section-heading reveal">
+            <p class="eyebrow" data-i18n="reviews.eyebrow"></p>
+            <h2 data-i18n="reviews.title"></h2>
+          </div>
+
+          <div class="review-grid">
+            <!-- TODO: Replace dummy reviews with real customer reviews after launch. -->
+            <article class="review-card reveal">
+              <p class="stars" aria-label="5 out of 5" data-i18n-attr="aria-label:reviews.rating">★★★★★</p>
+              <blockquote data-i18n="reviews.items.one.text"></blockquote>
+              <p class="reviewer" data-i18n="reviews.items.one.name"></p>
+            </article>
+            <article class="review-card reveal">
+              <p class="stars" aria-label="5 out of 5" data-i18n-attr="aria-label:reviews.rating">★★★★★</p>
+              <blockquote data-i18n="reviews.items.two.text"></blockquote>
+              <p class="reviewer" data-i18n="reviews.items.two.name"></p>
+            </article>
+            <article class="review-card reveal">
+              <p class="stars" aria-label="5 out of 5" data-i18n-attr="aria-label:reviews.rating">★★★★★</p>
+              <blockquote data-i18n="reviews.items.three.text"></blockquote>
+              <p class="reviewer" data-i18n="reviews.items.three.name"></p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="faq" class="section">
+        <div class="container faq-layout">
+          <div class="reveal">
+            <p class="eyebrow" data-i18n="faq.eyebrow"></p>
+            <h2 data-i18n="faq.title"></h2>
+
+            <div class="faq-list">
+              <article class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false" aria-controls="faq-answer-1" id="faq-question-1">
+                  <span data-i18n="faq.items.languages.question"></span>
+                  <span class="faq-icon" aria-hidden="true">+</span>
+                </button>
+                <div class="faq-answer" id="faq-answer-1" role="region" aria-labelledby="faq-question-1" hidden>
+                  <p data-i18n="faq.items.languages.answer"></p>
+                </div>
+              </article>
+              <article class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false" aria-controls="faq-answer-2" id="faq-question-2">
+                  <span data-i18n="faq.items.people.question"></span>
+                  <span class="faq-icon" aria-hidden="true">+</span>
+                </button>
+                <div class="faq-answer" id="faq-answer-2" role="region" aria-labelledby="faq-question-2" hidden>
+                  <p data-i18n="faq.items.people.answer"></p>
+                </div>
+              </article>
+              <article class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false" aria-controls="faq-answer-3" id="faq-question-3">
+                  <span data-i18n="faq.items.transport.question"></span>
+                  <span class="faq-icon" aria-hidden="true">+</span>
+                </button>
+                <div class="faq-answer" id="faq-answer-3" role="region" aria-labelledby="faq-question-3" hidden>
+                  <p data-i18n="faq.items.transport.answer"></p>
+                </div>
+              </article>
+              <article class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false" aria-controls="faq-answer-4" id="faq-question-4">
+                  <span data-i18n="faq.items.food.question"></span>
+                  <span class="faq-icon" aria-hidden="true">+</span>
+                </button>
+                <div class="faq-answer" id="faq-answer-4" role="region" aria-labelledby="faq-question-4" hidden>
+                  <p data-i18n="faq.items.food.answer"></p>
+                </div>
+              </article>
+              <article class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false" aria-controls="faq-answer-5" id="faq-question-5">
+                  <span data-i18n="faq.items.reservation.question"></span>
+                  <span class="faq-icon" aria-hidden="true">+</span>
+                </button>
+                <div class="faq-answer" id="faq-answer-5" role="region" aria-labelledby="faq-question-5" hidden>
+                  <p data-i18n="faq.items.reservation.answer"></p>
+                </div>
+              </article>
+              <article class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false" aria-controls="faq-answer-6" id="faq-question-6">
+                  <span data-i18n="faq.items.cancel.question"></span>
+                  <span class="faq-icon" aria-hidden="true">+</span>
+                </button>
+                <div class="faq-answer" id="faq-answer-6" role="region" aria-labelledby="faq-question-6" hidden>
+                  <p data-i18n="faq.items.cancel.answer"></p>
+                </div>
+              </article>
+              <article class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false" aria-controls="faq-answer-7" id="faq-question-7">
+                  <span data-i18n="faq.items.payment.question"></span>
+                  <span class="faq-icon" aria-hidden="true">+</span>
+                </button>
+                <div class="faq-answer" id="faq-answer-7" role="region" aria-labelledby="faq-question-7" hidden>
+                  <p data-i18n="faq.items.payment.answer"></p>
+                </div>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="section section--band contact-section">
+        <div class="container contact-grid">
+          <aside class="contact-panel reveal">
+            <p class="eyebrow" data-i18n="contact.eyebrow"></p>
+            <h2 data-i18n="contact.title"></h2>
+            <p data-i18n="contact.description"></p>
+
+            <div class="contact-links">
+              <!-- TODO: Replace with actual WhatsApp URL. -->
+              <a class="contact-link contact-link--whatsapp" href="https://wa.me/810000000000" target="_blank" rel="noopener">
+                <span data-i18n="contact.whatsapp"></span>
+              </a>
+              <!-- TODO: Replace with actual Instagram URL. -->
+              <a class="contact-link contact-link--instagram" href="https://www.instagram.com/osakalocalguide/" target="_blank" rel="noopener">
+                <span data-i18n="contact.instagram"></span>
+              </a>
+              <!-- TODO: Replace with actual email address. -->
+              <a class="contact-link contact-link--email" href="mailto:hello@osakalocalguide.example">
+                <span data-i18n="contact.email"></span>
+              </a>
+            </div>
+          </aside>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <a class="footer-brand" href="#home" data-scroll>
+          <span class="brand-mark brand-mark--small" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+          <span data-i18n="brand.name"></span>
+        </a>
+        <p>
+          &copy; <span data-year></span>
+          <span data-i18n="footer.copyright"></span>
+        </p>
+        <div class="footer-links">
+          <a href="https://www.instagram.com/osakalocalguide/" target="_blank" rel="noopener" data-i18n="footer.instagram"></a>
+          <a href="#home" data-scroll data-i18n="footer.backToTop"></a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="js/main.js" defer></script>
+  </body>
+</html>

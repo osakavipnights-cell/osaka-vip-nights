@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1420"/>
+      <stop offset=".54" stop-color="#1b1820"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <linearGradient id="moat" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#152235"/>
+      <stop offset="1" stop-color="#040505"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="910" cy="168" r="82" fill="#d8ad45" opacity=".2"/>
+  <path d="M0 600 C260 560 430 625 660 590 C850 560 1020 548 1200 590 L1200 900 L0 900 Z" fill="url(#moat)"/>
+  <g transform="translate(205 175)">
+    <path d="M390 8 L340 78 L440 78 Z" fill="#d8ad45"/>
+    <path d="M250 112 L530 112 L484 168 L296 168 Z" fill="#10100f" stroke="#d8ad45" stroke-width="6"/>
+    <path d="M205 190 L575 190 L520 255 L260 255 Z" fill="#10100f" stroke="#d8ad45" stroke-width="6"/>
+    <path d="M150 285 L630 285 L555 368 L225 368 Z" fill="#10100f" stroke="#d8ad45" stroke-width="7"/>
+    <rect x="308" y="76" width="164" height="310" fill="#eee8db"/>
+    <rect x="276" y="168" width="228" height="210" fill="#d9d3c7"/>
+    <rect x="236" y="255" width="308" height="160" fill="#efe6d5"/>
+    <path d="M180 414 L600 414 L650 510 L130 510 Z" fill="#0e0e0d" stroke="#d8ad45" stroke-width="7"/>
+    <g fill="#111">
+      <rect x="360" y="114" width="24" height="34"/>
+      <rect x="420" y="114" width="24" height="34"/>
+      <rect x="322" y="212" width="24" height="34"/>
+      <rect x="386" y="212" width="24" height="34"/>
+      <rect x="450" y="212" width="24" height="34"/>
+      <rect x="292" y="318" width="28" height="44"/>
+      <rect x="374" y="318" width="28" height="44"/>
+      <rect x="456" y="318" width="28" height="44"/>
+    </g>
+  </g>
+  <path d="M160 665 C360 625 500 700 730 650 C900 614 1050 620 1200 654" fill="none" stroke="#e3bc5b" stroke-width="6" opacity=".28"/>
+  <g opacity=".33">
+    <path d="M585 640 L560 900" stroke="#e3bc5b" stroke-width="10"/>
+    <path d="M665 650 L646 900" stroke="#efe6d5" stroke-width="8"/>
+  </g>
+</svg>

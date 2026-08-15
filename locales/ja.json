@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "大阪ローカルガイド | 大阪観光プライベートツアー",
+    "description": "フレンドリーなローカルガイドと大阪を楽しむ観光ガイドサービス。グルメ、文化、夜の街、隠れた名所まで希望に合わせて案内します。"
+  },
+  "brand": {
+    "name": "Osaka Local Guide",
+    "tagline": "Experience"
+  },
+  "nav": {
+    "primary": "メインナビゲーション",
+    "openMenu": "メニューを開く",
+    "closeMenu": "メニューを閉じる",
+    "home": "ホーム",
+    "about": "概要",
+    "services": "サービス",
+    "pricing": "料金",
+    "how": "流れ",
+    "gallery": "ギャラリー",
+    "reviews": "レビュー",
+    "faq": "FAQ",
+    "contact": "お問い合わせ"
+  },
+  "language": {
+    "label": "言語選択"
+  },
+  "common": {
+    "contactUs": "問い合わせる"
+  },
+  "home": {
+    "eyebrow": "大阪観光ガイドサービス",
+    "titleTop": "大阪をもっと",
+    "titleHighlight": "ローカルに楽しむ",
+    "description": "フレンドリーなローカルガイドと一緒に、本当の大阪へ。グルメ、文化、夜の街、隠れた名所まで、あなたのペースと興味に合わせて案内します。",
+    "secondaryCta": "サービスを見る"
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "title": "大阪を知るローカルガイド",
+    "description": "初めての大阪でも、何度目かの大阪でも安心して楽しめるようにサポートします。有名スポットから路地裏のローカルエリアまで、食べたいもの、見たいもの、体験したいことに合わせてルートを組み立てます。",
+    "features": {
+      "local": {
+        "title": "ローカルで親しみやすい",
+        "text": "観光地だけでなく、日常の大阪も知るガイドが案内します。"
+      },
+      "safe": {
+        "title": "安心して楽しめる",
+        "text": "分かりやすい集合場所、無理のないペース、当日のサポートで安心です。"
+      },
+      "custom": {
+        "title": "希望に合わせて調整",
+        "text": "グルメ、文化、夜遊び、買い物などを自由に組み合わせられます。"
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "提供サービス",
+    "description": "旅のスタイルに合うルートを選ぶことも、複数の体験を組み合わせてオリジナルの大阪観光にすることもできます。",
+    "items": {
+      "sightseeing": {
+        "title": "定番スポット観光",
+        "text": "大阪城、道頓堀、新世界など、代表的な観光スポットをローカルな視点で案内します。"
+      },
+      "food": {
+        "title": "大阪グルメ体験",
+        "text": "たこ焼き、お好み焼き、串カツなど、好みに合わせた大阪グルメを楽しめます。"
+      },
+      "nightlife": {
+        "title": "夜の大阪とバー巡り",
+        "text": "居酒屋、小さなバー、ネオンの街歩きまで、夜の大阪を気軽に体験できます。"
+      },
+      "cultural": {
+        "title": "文化とローカル体験",
+        "text": "商店街、神社、ローカルエリアなど、通常の観光だけでは出会いにくい大阪へ。"
+      },
+      "custom": {
+        "title": "カスタム大阪体験",
+        "text": "家族、カップル、一人旅、少人数グループに合わせた自由なプランです。"
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "料金プラン",
+    "description": "下記は仮料金です。日程、人数、希望ルートを確認したうえで調整できます。",
+    "popular": "人気プラン",
+    "plans": {
+      "half": {
+        "title": "半日プラン",
+        "duration": "4時間",
+        "price": "¥20,000〜",
+        "point1": "5名まで",
+        "point2": "人気スポットまたはグルメルート",
+        "point3": "ローカルガイド同行"
+      },
+      "full": {
+        "title": "1日プラン",
+        "duration": "8時間",
+        "price": "¥35,000〜",
+        "point1": "5名まで",
+        "point2": "カスタム行程",
+        "point3": "観光地とローカルスポット"
+      },
+      "custom": {
+        "title": "カスタムプラン",
+        "duration": "時間相談可",
+        "price": "お問い合わせ",
+        "point1": "プライベートルート作成",
+        "point2": "グループや特別な希望にも対応",
+        "point3": "柔軟に相談したい方におすすめ"
+      }
+    },
+    "included": {
+      "title": "含まれるもの",
+      "item1": "ガイド料金",
+      "item2": "ツアープラン作成"
+    },
+    "excluded": {
+      "title": "含まれないもの",
+      "item1": "交通費",
+      "item2": "飲食代",
+      "item3": "入場料"
+    },
+    "note": "料金は仮の例です。時期、スケジュール、希望内容によって変わる場合があります。"
+  },
+  "how": {
+    "eyebrow": "How It Works",
+    "title": "ご予約からVIP体験まで",
+    "steps": {
+      "reservation": {
+        "title": "ご予約",
+        "text": "予約フォームからお申し込み"
+      },
+      "contact": {
+        "title": "ご連絡",
+        "text": "担当者からご連絡し、詳細を確認"
+      },
+      "consultation": {
+        "title": "プラン相談",
+        "text": "ご希望に合わせたプランを提案"
+      },
+      "pickup": {
+        "title": "当日お迎え",
+        "text": "ホテルまでお迎えにあがります"
+      },
+      "vip": {
+        "title": "VIP体験",
+        "text": "特別な大阪の夜をお楽しみください。"
+      }
+    }
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "大阪の魅力",
+    "items": {
+      "dotonbori": "道頓堀",
+      "castle": "大阪城",
+      "shinsekai": "新世界",
+      "umeda": "梅田",
+      "food": "大阪グルメ",
+      "izakaya": "居酒屋の夜",
+      "shotengai": "商店街",
+      "skyline": "夜景"
+    }
+  },
+  "reviews": {
+    "eyebrow": "Reviews",
+    "title": "ゲストの声",
+    "rating": "5点満点中5点",
+    "items": {
+      "one": {
+        "text": "「大阪を体験する最高の方法でした。自分たちだけでは見つけられない場所に案内してくれました。」",
+        "name": "Emma, Australia"
+      },
+      "two": {
+        "text": "「大阪の夜を完璧に楽しめました。食べ歩きとバー巡りがとても良かったです。」",
+        "name": "Daniel, USA"
+      },
+      "three": {
+        "text": "「ローカルな知識が豊富で、無理のない楽しいルートでした。小さな発見がたくさんありました。」",
+        "name": "Mei, Singapore"
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "よくある質問",
+    "items": {
+      "languages": {
+        "question": "対応言語は何ですか？",
+        "answer": "英語と日本語に対応しています。中国語・韓国語はガイドの空き状況により相談可能です。"
+      },
+      "people": {
+        "question": "何人まで参加できますか？",
+        "answer": "仮プランは5名までを想定しています。大人数の場合はお問い合わせください。"
+      },
+      "transport": {
+        "question": "交通費は含まれますか？",
+        "answer": "含まれません。電車、タクシーなどの交通費はお客様負担です。"
+      },
+      "food": {
+        "question": "飲食代は含まれますか？",
+        "answer": "含まれません。当日の気分に合わせて自由に選べるよう別料金にしています。"
+      },
+      "reservation": {
+        "question": "予約はどうすればよいですか？",
+        "answer": "まずはお問い合わせください。日程、希望内容、集合場所を確認してから確定します。"
+      },
+      "cancel": {
+        "question": "キャンセルポリシーはありますか？",
+        "answer": "正式なポリシーは準備中です。確定前に最新の条件をお知らせします。"
+      },
+      "payment": {
+        "question": "支払い方法は？",
+        "answer": "現在はお問い合わせ後に個別で案内しています。"
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "大阪の旅を相談する",
+    "description": "どんな大阪を体験したいか教えてください。スケジュールに合わせて、楽しみやすいルートを提案します。",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "email": "Email"
+  },
+  "footer": {
+    "copyright": "Osaka Local Guide. All rights reserved.",
+    "instagram": "Instagram",
+    "backToTop": "ページ上部へ"
+  },
+  "images": {
+    "hero": "道頓堀の運河と大阪の夜景",
+    "about": "夕暮れの大阪城",
+    "contact": "大阪ベイエリアの夜景",
+    "services": {
+      "sightseeing": "大阪観光ルート",
+      "food": "大阪ローカルグルメ体験",
+      "nightlife": "大阪の夜遊びとバー巡り",
+      "cultural": "大阪のローカルな文化エリア",
+      "custom": "大阪ガイドのカスタムルート"
+    },
+    "gallery": {
+      "dotonbori": "道頓堀のネオンサイン",
+      "castle": "大阪城",
+      "shinsekai": "新世界の街並み",
+      "umeda": "梅田の街明かり",
+      "food": "大阪の屋台グルメ",
+      "izakaya": "夜の居酒屋",
+      "shotengai": "大阪の商店街",
+      "skyline": "大阪の夜景"
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "大阪本地向导 | 大阪私人观光服务",
+    "description": "和友好的本地向导一起探索大阪。美食、文化、夜生活和隐藏景点都可以按照你的行程定制。"
+  },
+  "brand": {
+    "name": "Osaka Local Guide",
+    "tagline": "Experience"
+  },
+  "nav": {
+    "primary": "主导航",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "home": "首页",
+    "about": "关于",
+    "services": "服务",
+    "pricing": "价格",
+    "how": "流程",
+    "gallery": "相册",
+    "reviews": "评价",
+    "faq": "FAQ",
+    "contact": "联系"
+  },
+  "language": {
+    "label": "语言选择"
+  },
+  "common": {
+    "contactUs": "联系我们"
+  },
+  "home": {
+    "eyebrow": "大阪私人向导服务",
+    "titleTop": "像本地人一样",
+    "titleHighlight": "体验大阪",
+    "description": "和友好的本地向导一起发现真实的大阪。美食、文化、夜生活和隐藏景点都会按照你的节奏和兴趣安排。",
+    "secondaryCta": "查看服务"
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "title": "熟悉大阪的本地向导",
+    "description": "无论你是第一次来大阪，还是再次到访，我们都会帮助你轻松安心地游玩。从经典景点到街巷里的本地日常，路线会根据你想吃、想看、想体验的内容来安排。",
+    "features": {
+      "local": {
+        "title": "本地而友好",
+        "text": "不仅介绍热门景点，也带你感受日常生活中的大阪。"
+      },
+      "safe": {
+        "title": "安心可靠",
+        "text": "清楚的集合地点、舒适的节奏和当天的行程支持。"
+      },
+      "custom": {
+        "title": "为你定制",
+        "text": "美食、文化、夜生活和购物都可以灵活组合。"
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "服务内容",
+    "description": "你可以选择适合自己旅行方式的路线，也可以把多种体验组合成专属的大阪一日行程。",
+    "items": {
+      "sightseeing": {
+        "title": "经典景点观光",
+        "text": "大阪城、道顿堀、新世界等经典景点，并加入本地视角的介绍。"
+      },
+      "food": {
+        "title": "大阪本地美食体验",
+        "text": "章鱼烧、大阪烧、炸串等大阪美食，会根据你的口味安排。"
+      },
+      "nightlife": {
+        "title": "夜生活与酒吧巡游",
+        "text": "居酒屋、小酒吧和霓虹街区，轻松体验大阪的夜晚。"
+      },
+      "cultural": {
+        "title": "文化与本地体验",
+        "text": "商店街、神社和本地街区，探索普通观光路线以外的大阪。"
+      },
+      "custom": {
+        "title": "定制大阪体验",
+        "text": "适合家庭、情侣、独自旅行者或小团体的灵活计划。"
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "选择价格方案",
+    "description": "以下为临时示例价格。确认日期、人数和路线后，可以再做调整。",
+    "popular": "人气方案",
+    "plans": {
+      "half": {
+        "title": "半日方案",
+        "duration": "4小时",
+        "price": "¥20,000起",
+        "point1": "最多5人",
+        "point2": "热门景点或美食路线",
+        "point3": "本地向导陪同"
+      },
+      "full": {
+        "title": "一日方案",
+        "duration": "8小时",
+        "price": "¥35,000起",
+        "point1": "最多5人",
+        "point2": "定制行程",
+        "point3": "经典景点和本地街区"
+      },
+      "custom": {
+        "title": "定制方案",
+        "duration": "时间灵活",
+        "price": "请咨询",
+        "point1": "私人路线规划",
+        "point2": "适合团体或特别需求",
+        "point3": "需要更多弹性时的理想选择"
+      }
+    },
+    "included": {
+      "title": "包含",
+      "item1": "向导费用",
+      "item2": "行程规划"
+    },
+    "excluded": {
+      "title": "不包含",
+      "item1": "交通费用",
+      "item2": "餐饮费用",
+      "item3": "门票费用"
+    },
+    "note": "价格为临时示例，可能会根据季节、时间安排和需求而变化。"
+  },
+  "how": {
+    "eyebrow": "How It Works",
+    "title": "从预约到VIP体验",
+    "steps": {
+      "reservation": {
+        "title": "预约",
+        "text": "请通过预约表单提交申请。"
+      },
+      "contact": {
+        "title": "联系确认",
+        "text": "负责人将与您联系并确认详细信息。"
+      },
+      "consultation": {
+        "title": "行程咨询",
+        "text": "我们会根据您的需求提出专属方案。"
+      },
+      "pickup": {
+        "title": "酒店接送",
+        "text": "体验当天，我们会前往酒店接您。"
+      },
+      "vip": {
+        "title": "VIP体验",
+        "text": "尽情享受特别的大阪之夜。"
+      }
+    }
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "大阪瞬间",
+    "items": {
+      "dotonbori": "道顿堀",
+      "castle": "大阪城",
+      "shinsekai": "新世界",
+      "umeda": "梅田",
+      "food": "大阪街头美食",
+      "izakaya": "居酒屋之夜",
+      "shotengai": "商店街",
+      "skyline": "夜景"
+    }
+  },
+  "reviews": {
+    "eyebrow": "Reviews",
+    "title": "客人评价",
+    "rating": "5分满分中的5分",
+    "items": {
+      "one": {
+        "text": "“这是体验大阪最好的方式。向导带我们去了很多自己绝对找不到的地方。”",
+        "name": "Emma, Australia"
+      },
+      "two": {
+        "text": "“完美的大阪夜晚。美食和酒吧体验都非常棒。”",
+        "name": "Daniel, USA"
+      },
+      "three": {
+        "text": "“本地知识很丰富，路线舒适又灵活，还有很多小发现。”",
+        "name": "Mei, Singapore"
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "常见问题",
+    "items": {
+      "languages": {
+        "question": "支持哪些语言？",
+        "answer": "目前支持英语和日语。中文和韩语可根据向导空档情况另行安排。"
+      },
+      "people": {
+        "question": "一个行程可以参加多少人？",
+        "answer": "示例方案适合最多5位客人。人数更多时请联系我们。"
+      },
+      "transport": {
+        "question": "交通费包含在内吗？",
+        "answer": "不包含。电车、出租车或其他交通费用需由客人另行支付。"
+      },
+      "food": {
+        "question": "餐饮费用包含在内吗？",
+        "answer": "不包含。这样你可以在当天根据心情自由选择。"
+      },
+      "reservation": {
+        "question": "如何预约？",
+        "answer": "请先联系我们。我们会确认日期、偏好和集合地点后再确定行程。"
+      },
+      "cancel": {
+        "question": "取消政策是什么？",
+        "answer": "正式政策仍在准备中。确认前会告知你最新条款。"
+      },
+      "payment": {
+        "question": "如何付款？",
+        "answer": "目前会在咨询后根据具体情况单独说明。"
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "一起规划你的大阪之旅",
+    "description": "告诉我们你想体验怎样的大阪。我们会根据你的时间安排，推荐轻松友好的路线。",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "email": "Email"
+  },
+  "footer": {
+    "copyright": "Osaka Local Guide. All rights reserved.",
+    "instagram": "Instagram",
+    "backToTop": "回到顶部"
+  },
+  "images": {
+    "hero": "道顿堀运河和大阪夜生活",
+    "about": "傍晚的大阪城",
+    "contact": "大阪湾夜景",
+    "services": {
+      "sightseeing": "大阪观光路线",
+      "food": "大阪本地美食体验",
+      "nightlife": "大阪夜生活和酒吧巡游",
+      "cultural": "大阪本地文化街区",
+      "custom": "大阪定制向导路线"
+    },
+    "gallery": {
+      "dotonbori": "道顿堀霓虹灯",
+      "castle": "大阪城",
+      "shinsekai": "新世界街道",
+      "umeda": "梅田城市灯光",
+      "food": "大阪街头美食",
+      "izakaya": "夜晚的居酒屋",
+      "shotengai": "大阪商店街",
+      "skyline": "大阪夜景天际线"
+    }
+  }
+}

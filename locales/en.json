@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Osaka Local Guide | Private Tours in Osaka",
+    "description": "Discover Osaka with a friendly local guide. Food, culture, nightlife and hidden gems tailored to your trip."
+  },
+  "brand": {
+    "name": "Osaka Local Guide",
+    "tagline": "Experience"
+  },
+  "nav": {
+    "primary": "Primary navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "pricing": "Pricing",
+    "how": "How It Works",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "language": {
+    "label": "Language selection"
+  },
+  "common": {
+    "contactUs": "Contact Us"
+  },
+  "home": {
+    "eyebrow": "Private Osaka Guide Service",
+    "titleTop": "Experience Osaka",
+    "titleHighlight": "Like a Local",
+    "description": "Discover the real Osaka with a friendly local guide. Food, culture, nightlife and hidden gems are tailored to your pace and interests.",
+    "secondaryCta": "View Services"
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "title": "Your Local Guide in Osaka",
+    "description": "We help first-time and returning visitors enjoy Osaka with confidence. From famous sights to neighborhood alleys, your route is shaped around what you want to taste, see and experience.",
+    "features": {
+      "local": {
+        "title": "Local & Friendly",
+        "text": "Explore with guides who know everyday Osaka, not only the famous stops."
+      },
+      "safe": {
+        "title": "Safe & Reliable",
+        "text": "Clear meeting points, flexible pacing and support during the tour."
+      },
+      "custom": {
+        "title": "Customized for You",
+        "text": "Food, culture, nightlife or shopping can be combined into one easy plan."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "What We Offer",
+    "description": "Choose a route that fits your travel style, or ask us to combine several experiences into a custom Osaka day.",
+    "items": {
+      "sightseeing": {
+        "title": "Must-See Sightseeing",
+        "text": "Osaka Castle, Dotonbori, Shinsekai and other classic landmarks with local context."
+      },
+      "food": {
+        "title": "Local Food Experience",
+        "text": "Takoyaki, okonomiyaki, kushikatsu and casual spots that match your taste."
+      },
+      "nightlife": {
+        "title": "Nightlife & Bar Hopping",
+        "text": "Izakaya, small bars and neon streets for an easy night out in Osaka."
+      },
+      "cultural": {
+        "title": "Cultural & Local Experience",
+        "text": "Shopping streets, shrines and neighborhoods beyond the usual tourist path."
+      },
+      "custom": {
+        "title": "Custom Osaka Experience",
+        "text": "A flexible plan for families, couples, solo travelers or small groups."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Choose Your Plan",
+    "description": "Temporary sample prices are listed below and can be adjusted after your preferred date, group size and route are confirmed.",
+    "popular": "Most Popular",
+    "plans": {
+      "half": {
+        "title": "Half Day",
+        "duration": "4 Hours",
+        "price": "From ¥20,000",
+        "point1": "Up to 5 people",
+        "point2": "Popular sights or food route",
+        "point3": "Local guide support"
+      },
+      "full": {
+        "title": "Full Day",
+        "duration": "8 Hours",
+        "price": "From ¥35,000",
+        "point1": "Up to 5 people",
+        "point2": "Custom itinerary",
+        "point3": "Sightseeing and local stops"
+      },
+      "custom": {
+        "title": "Custom Plan",
+        "duration": "Flexible Schedule",
+        "price": "Contact Us",
+        "point1": "Private route planning",
+        "point2": "Good for groups or special requests",
+        "point3": "Perfect when you need extra flexibility"
+      }
+    },
+    "included": {
+      "title": "Included",
+      "item1": "Guide fee",
+      "item2": "Tour planning"
+    },
+    "excluded": {
+      "title": "Not Included",
+      "item1": "Transportation",
+      "item2": "Food and drinks",
+      "item3": "Admission fees"
+    },
+    "note": "Prices are temporary examples and may vary depending on season, schedule and requests."
+  },
+  "how": {
+    "eyebrow": "How It Works",
+    "title": "From Booking to Your VIP Experience",
+    "steps": {
+      "reservation": {
+        "title": "Booking",
+        "text": "Apply using the reservation form."
+      },
+      "contact": {
+        "title": "We Contact You",
+        "text": "Your coordinator contacts you to confirm the details."
+      },
+      "consultation": {
+        "title": "Plan Consultation",
+        "text": "We propose a plan tailored to your preferences."
+      },
+      "pickup": {
+        "title": "Hotel Pickup",
+        "text": "We pick you up at your hotel on the day."
+      },
+      "vip": {
+        "title": "VIP Experience",
+        "text": "Enjoy an unforgettable and exclusive night in Osaka."
+      }
+    }
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "Osaka Moments",
+    "items": {
+      "dotonbori": "Dotonbori",
+      "castle": "Osaka Castle",
+      "shinsekai": "Shinsekai",
+      "umeda": "Umeda",
+      "food": "Osaka Street Food",
+      "izakaya": "Izakaya Night",
+      "shotengai": "Shopping Streets",
+      "skyline": "Night View"
+    }
+  },
+  "reviews": {
+    "eyebrow": "Reviews",
+    "title": "What Our Guests Say",
+    "rating": "5 out of 5",
+    "items": {
+      "one": {
+        "text": "\"The best way to experience Osaka. Our guide showed us places we would never have found by ourselves.\"",
+        "name": "Emma, Australia"
+      },
+      "two": {
+        "text": "\"Perfect night in Osaka. We had the best food and bar hopping experience.\"",
+        "name": "Daniel, USA"
+      },
+      "three": {
+        "text": "\"Great local knowledge. The route was comfortable, flexible and full of small discoveries.\"",
+        "name": "Mei, Singapore"
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently Asked Questions",
+    "items": {
+      "languages": {
+        "question": "What languages do you support?",
+        "answer": "English and Japanese are supported. Chinese and Korean support can be arranged depending on guide availability."
+      },
+      "people": {
+        "question": "How many people can join a tour?",
+        "answer": "The sample plans are designed for up to 5 guests. Please contact us for larger groups."
+      },
+      "transport": {
+        "question": "Are transportation costs included?",
+        "answer": "No. Train, taxi or other transportation costs are paid separately by guests."
+      },
+      "food": {
+        "question": "Are food and drinks included?",
+        "answer": "No. Food and drinks are not included, so you can choose freely on the day."
+      },
+      "reservation": {
+        "question": "How do I make a reservation?",
+        "answer": "Please contact us first. We will confirm your date, preferences and meeting point before the tour."
+      },
+      "cancel": {
+        "question": "What is your cancellation policy?",
+        "answer": "The final policy is still being prepared. We will share the latest terms before confirmation."
+      },
+      "payment": {
+        "question": "How do I pay?",
+        "answer": "Payment details are currently handled individually after inquiry."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's Plan Your Osaka Adventure",
+    "description": "Tell us what kind of Osaka you want to experience. We will suggest a friendly route that fits your schedule.",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "email": "Email"
+  },
+  "footer": {
+    "copyright": "Osaka Local Guide. All rights reserved.",
+    "instagram": "Instagram",
+    "backToTop": "Back to Top"
+  },
+  "images": {
+    "hero": "Dotonbori canal and Osaka nightlife",
+    "about": "Osaka Castle at dusk",
+    "contact": "Osaka bay night skyline",
+    "services": {
+      "sightseeing": "Osaka sightseeing route",
+      "food": "Osaka local food experience",
+      "nightlife": "Osaka nightlife and bar hopping",
+      "cultural": "Osaka local cultural street",
+      "custom": "Custom Osaka guide route"
+    },
+    "gallery": {
+      "dotonbori": "Dotonbori neon signs",
+      "castle": "Osaka Castle",
+      "shinsekai": "Shinsekai street",
+      "umeda": "Umeda city lights",
+      "food": "Osaka street food",
+      "izakaya": "Izakaya table at night",
+      "shotengai": "Osaka shopping arcade",
+      "skyline": "Osaka skyline at night"
+    }
+  }
+}
