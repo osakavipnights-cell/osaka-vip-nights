@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "大阪ローカルガイド | 大阪観光プライベートツアー",
+    "title": "Osaka VIP Nights | 大阪VIPナイトガイド",
     "description": "フレンドリーなローカルガイドと大阪を楽しむ観光ガイドサービス。グルメ、文化、夜の街、隠れた名所まで希望に合わせて案内します。"
   },
   "brand": {
-    "name": "Osaka Local Guide",
+    "name": "Osaka VIP Nights",
     "tagline": "Experience"
   },
   "nav": {
@@ -211,7 +211,7 @@
     "email": "Email"
   },
   "footer": {
-    "copyright": "Osaka Local Guide. All rights reserved.",
+    "copyright": "Osaka VIP Nights. All rights reserved.",
     "instagram": "Instagram",
     "backToTop": "ページ上部へ"
   },

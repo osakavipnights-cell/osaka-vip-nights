@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "大阪本地向导 | 大阪私人观光服务",
+    "title": "Osaka VIP Nights | 大阪VIP夜间向导",
     "description": "和友好的本地向导一起探索大阪。美食、文化、夜生活和隐藏景点都可以按照你的行程定制。"
   },
   "brand": {
-    "name": "Osaka Local Guide",
+    "name": "Osaka VIP Nights",
     "tagline": "Experience"
   },
   "nav": {
@@ -211,7 +211,7 @@
     "email": "Email"
   },
   "footer": {
-    "copyright": "Osaka Local Guide. All rights reserved.",
+    "copyright": "Osaka VIP Nights. All rights reserved.",
     "instagram": "Instagram",
     "backToTop": "回到顶部"
   },
