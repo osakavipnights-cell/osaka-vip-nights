@@ -36,79 +36,63 @@
   },
   "about": {
     "eyebrow": "About Us",
-    "title": "熟悉大阪的本地向导",
-    "description": "无论你是第一次来大阪，还是再次到访，我们都会帮助你轻松安心地游玩。从经典景点到街巷里的本地日常，路线会根据你想吃、想看、想体验的内容来安排。",
+    "title": "安心、从容地体验大阪之夜",
+    "description": "我们为您解决店铺选择、语言沟通和夜间出行的不便。熟悉大阪夜生活的负责人会根据您的需求，从酒店接送到店内沟通全程提供细致协助。",
     "features": {
-      "local": {
-        "title": "本地而友好",
-        "text": "不仅介绍热门景点，也带你感受日常生活中的大阪。"
+      "curated": {
+        "title": "精选夜间场所",
+        "text": "根据您喜欢的氛围和体验，为您介绍舒适合适的场所。"
       },
-      "safe": {
-        "title": "安心可靠",
-        "text": "清楚的集合地点、舒适的节奏和当天的行程支持。"
+      "reliable": {
+        "title": "安心可靠的服务",
+        "text": "即使第一次体验大阪夜生活，负责人也会协助您完成当晚行程。"
       },
-      "custom": {
-        "title": "为你定制",
-        "text": "美食、文化、夜生活和购物都可以灵活组合。"
+      "language": {
+        "title": "翻译支持",
+        "text": "翻译人员会协助您在店内顺畅表达需求并进行沟通。"
       }
     }
   },
   "services": {
     "eyebrow": "Services",
     "title": "服务内容",
-    "description": "你可以选择适合自己旅行方式的路线，也可以把多种体验组合成专属的大阪一日行程。",
+    "description": "三项简洁服务，让您顺畅享受难忘的大阪之夜。",
     "items": {
-      "sightseeing": {
-        "title": "经典景点观光",
-        "text": "大阪城、道顿堀、新世界等经典景点，并加入本地视角的介绍。"
+      "nightGuide": {
+        "title": "夜生活向导",
+        "text": "熟悉大阪夜生活的向导会根据您的喜好介绍合适的店铺和街区。"
       },
-      "food": {
-        "title": "大阪本地美食体验",
-        "text": "章鱼烧、大阪烧、炸串等大阪美食，会根据你的口味安排。"
+      "pickup": {
+        "title": "酒店接送",
+        "text": "夜间行程开始时，我们会前往您入住的酒店接您。"
       },
-      "nightlife": {
-        "title": "夜生活与酒吧巡游",
-        "text": "居酒屋、小酒吧和霓虹街区，轻松体验大阪的夜晚。"
-      },
-      "cultural": {
-        "title": "文化与本地体验",
-        "text": "商店街、神社和本地街区，探索普通观光路线以外的大阪。"
-      },
-      "custom": {
-        "title": "定制大阪体验",
-        "text": "适合家庭、情侣、独自旅行者或小团体的灵活计划。"
+      "interpreter": {
+        "title": "翻译服务",
+        "text": "翻译人员会协助您在店内沟通需求，轻松享受整个夜晚。"
       }
     }
   },
   "pricing": {
     "eyebrow": "Pricing",
     "title": "选择价格方案",
-    "description": "以下为临时示例价格。确认日期、人数和路线后，可以再做调整。",
+    "description": "可根据夜间行程时长选择三种课程。",
     "popular": "人气方案",
+    "interpreterAddon": "追加1名翻译  +¥15,000",
     "plans": {
-      "half": {
-        "title": "半日方案",
-        "duration": "4小时",
-        "price": "¥20,000起",
-        "point1": "最多5人",
-        "point2": "热门景点或美食路线",
-        "point3": "本地向导陪同"
+      "one": {
+        "title": "1小时课程",
+        "duration": "1小时",
+        "price": "¥20,000"
       },
-      "full": {
-        "title": "一日方案",
-        "duration": "8小时",
-        "price": "¥35,000起",
-        "point1": "最多5人",
-        "point2": "定制行程",
-        "point3": "经典景点和本地街区"
+      "three": {
+        "title": "3小时课程",
+        "duration": "3小时",
+        "price": "¥40,000"
       },
-      "custom": {
-        "title": "定制方案",
-        "duration": "时间灵活",
-        "price": "请咨询",
-        "point1": "私人路线规划",
-        "point2": "适合团体或特别需求",
-        "point3": "需要更多弹性时的理想选择"
+      "five": {
+        "title": "5小时课程",
+        "duration": "5小时",
+        "price": "¥70,000"
       }
     },
     "included": {
@@ -152,16 +136,17 @@
   },
   "gallery": {
     "eyebrow": "Gallery",
-    "title": "大阪瞬间",
+    "title": "大阪夜色特别体验",
+    "description": "从低调雅致的休闲空间、隐秘夜间餐厅到贴心的专车接送，由熟悉当地夜生活的向导带您体验不一样的大阪之夜。",
     "items": {
-      "dotonbori": "道顿堀",
-      "castle": "大阪城",
-      "shinsekai": "新世界",
-      "umeda": "梅田",
-      "food": "大阪街头美食",
-      "izakaya": "居酒屋之夜",
-      "shotengai": "商店街",
-      "skyline": "夜景"
+      "dotonbori": "夜幕下的道顿堀",
+      "lounge": "私人休闲空间",
+      "nightDistrict": "隐秘夜间街区",
+      "rooftop": "屋顶夜景",
+      "lateDining": "深夜特色餐饮",
+      "izakaya": "本地夜间好去处",
+      "arrival": "专车接送",
+      "skyline": "大阪深夜时光"
     }
   },
   "reviews": {
@@ -232,24 +217,23 @@
   },
   "images": {
     "hero": "道顿堀运河和大阪夜生活",
-    "about": "傍晚的大阪城",
+    "about": "当地向导带领宾客漫步大阪夜巷",
     "contact": "大阪湾夜景",
     "services": {
-      "sightseeing": "大阪观光路线",
-      "food": "大阪本地美食体验",
-      "nightlife": "大阪夜生活和酒吧巡游",
-      "cultural": "大阪本地文化街区",
-      "custom": "大阪定制向导路线"
+      "nightGuide": "当地向导带领宾客体验大阪高雅的夜间娱乐街区",
+      "pickup": "大阪酒店夜间专车接送",
+      "interpreter": "在大阪夜间场所协助交流的翻译人员"
     },
     "gallery": {
-      "dotonbori": "道顿堀霓虹灯",
-      "castle": "大阪城",
-      "shinsekai": "新世界街道",
-      "umeda": "梅田城市灯光",
-      "food": "大阪街头美食",
-      "izakaya": "夜晚的居酒屋",
-      "shotengai": "大阪商店街",
-      "skyline": "大阪夜景天际线"
+      "dotonbori": "夜幕下的道顿堀运河灯光",
+      "hostessLounge": "成年女性工作人员在大阪雅致夜间休闲空间接待宾客",
+      "lounge": "大阪雅致的私人休闲空间",
+      "nightDistrict": "当地向导带领宾客漫步大阪夜巷",
+      "rooftop": "俯瞰大阪夜景的屋顶空间",
+      "lateDining": "大阪深夜特色用餐体验",
+      "izakaya": "大阪隐秘的本地夜间去处",
+      "arrival": "专车夜间抵达大阪酒店",
+      "skyline": "深夜的大阪城市灯光"
     }
   }
 }

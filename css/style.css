@@ -507,6 +507,11 @@ h3 {
   font-weight: 800;
 }
 
+.feature-icon svg {
+  width: 19px;
+  height: 19px;
+}
+
 .mini-feature p {
   margin: 8px 0 0;
   color: var(--color-muted);
@@ -526,7 +531,7 @@ h3 {
 
 .service-grid {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
 }
 
@@ -571,44 +576,45 @@ h3 {
 }
 
 .pricing-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 300px;
-  gap: 24px;
-  align-items: start;
+  display: block;
 }
 
 .pricing-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
+  max-width: 980px;
+  margin: 0 auto;
 }
 
 .price-card {
   position: relative;
   display: grid;
-  min-height: 410px;
+  min-height: 290px;
   padding: 28px 24px;
 }
 
 .price-card--featured {
-  padding-top: 58px;
   border-color: rgba(240, 203, 106, 0.68);
   box-shadow: 0 18px 52px rgba(216, 173, 69, 0.16);
 }
 
 .badge {
   position: absolute;
-  top: 0;
-  left: 50%;
-  min-width: 168px;
-  padding: 6px 14px;
+  top: 14px;
+  right: 16px;
+  min-width: 112px;
+  padding: 5px 12px;
   color: #17110a;
   background: var(--color-gold-soft);
-  border-radius: 0 0 6px 6px;
+  border-radius: 999px;
   font-size: 0.76rem;
   font-weight: 800;
   text-align: center;
-  transform: translateX(-50%);
+}
+
+.price-card--featured h3 {
+  padding-right: 124px;
 }
 
 .duration {
@@ -660,6 +666,18 @@ h3 {
   margin-top: 24px;
 }
 
+.pricing-addon {
+  max-width: 620px;
+  margin: 20px auto 0;
+  padding: 15px 20px;
+  color: var(--color-gold-soft);
+  background: rgba(216, 173, 69, 0.08);
+  border: 1px solid rgba(216, 173, 69, 0.3);
+  border-radius: var(--radius);
+  font-weight: 800;
+  text-align: center;
+}
+
 .included-box {
   display: grid;
   gap: 24px;
@@ -696,18 +714,18 @@ h3 {
 .step-card {
   position: relative;
   z-index: 1;
-  min-height: 232px;
-  padding: 22px 18px;
+  min-height: 196px;
+  padding: 20px 16px;
 }
 
 .step-marker {
   position: relative;
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   width: 62px;
   height: 62px;
-  margin-bottom: 20px;
+  margin: 0 auto 20px;
   color: #15100a;
   background: var(--color-gold-soft);
   border-radius: 50%;
@@ -717,6 +735,10 @@ h3 {
 .step-icon {
   width: 28px;
   height: 28px;
+}
+
+.step-card > h3 {
+  text-align: center;
 }
 
 .step-number {
@@ -740,6 +762,10 @@ h3 {
 .review-card blockquote {
   margin: 12px 0 0;
   color: var(--color-muted);
+}
+
+.step-card p {
+  text-align: center;
 }
 
 .gallery-grid {
@@ -907,6 +933,7 @@ h3 {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 10px;
   min-height: 48px;
   padding: 0 18px;
   color: #fff;
@@ -914,6 +941,12 @@ h3 {
   border-radius: var(--radius-small);
   font-weight: 800;
   transition: transform 180ms ease, filter 180ms ease;
+}
+
+.contact-icon {
+  width: 22px;
+  height: 22px;
+  flex: 0 0 auto;
 }
 
 .contact-link:hover,
@@ -1100,6 +1133,10 @@ h3 {
 
   .steps::before {
     display: none;
+  }
+
+  .step-card {
+    min-height: 0;
   }
 
   .service-grid {

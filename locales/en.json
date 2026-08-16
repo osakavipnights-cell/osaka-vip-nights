@@ -36,79 +36,63 @@
   },
   "about": {
     "eyebrow": "About Us",
-    "title": "Your Local Guide in Osaka",
-    "description": "We help first-time and returning visitors enjoy Osaka with confidence. From famous sights to neighborhood alleys, your route is shaped around what you want to taste, see and experience.",
+    "title": "Your Osaka Night, Handled Locally",
+    "description": "We take care of venue selection, language support and evening transportation. A local coordinator guides you to places that suit your preferences, from hotel pickup through communication inside each venue.",
     "features": {
-      "local": {
-        "title": "Local & Friendly",
-        "text": "Explore with guides who know everyday Osaka, not only the famous stops."
+      "curated": {
+        "title": "Curated Night Spots",
+        "text": "We suggest comfortable venues based on the atmosphere and experience you want."
       },
-      "safe": {
-        "title": "Safe & Reliable",
-        "text": "Clear meeting points, flexible pacing and support during the tour."
+      "reliable": {
+        "title": "Discreet & Reliable",
+        "text": "Your coordinator supports the evening from the first meeting to the final stop."
       },
-      "custom": {
-        "title": "Customized for You",
-        "text": "Food, culture, nightlife or shopping can be combined into one easy plan."
+      "language": {
+        "title": "Language Support",
+        "text": "An interpreter helps communicate your requests smoothly inside each venue."
       }
     }
   },
   "services": {
     "eyebrow": "Services",
     "title": "What We Offer",
-    "description": "Choose a route that fits your travel style, or ask us to combine several experiences into a custom Osaka day.",
+    "description": "Three simple services for a smooth and memorable night in Osaka.",
     "items": {
-      "sightseeing": {
-        "title": "Must-See Sightseeing",
-        "text": "Osaka Castle, Dotonbori, Shinsekai and other classic landmarks with local context."
+      "nightGuide": {
+        "title": "Nightlife Guidance",
+        "text": "A local night guide introduces venues and areas suited to your preferences."
       },
-      "food": {
-        "title": "Local Food Experience",
-        "text": "Takoyaki, okonomiyaki, kushikatsu and casual spots that match your taste."
+      "pickup": {
+        "title": "Hotel Pickup",
+        "text": "We pick you up from your hotel when your evening begins."
       },
-      "nightlife": {
-        "title": "Nightlife & Bar Hopping",
-        "text": "Izakaya, small bars and neon streets for an easy night out in Osaka."
-      },
-      "cultural": {
-        "title": "Cultural & Local Experience",
-        "text": "Shopping streets, shrines and neighborhoods beyond the usual tourist path."
-      },
-      "custom": {
-        "title": "Custom Osaka Experience",
-        "text": "A flexible plan for families, couples, solo travelers or small groups."
+      "interpreter": {
+        "title": "Interpreter",
+        "text": "An interpreter supports conversations and requests throughout the evening."
       }
     }
   },
   "pricing": {
     "eyebrow": "Pricing",
     "title": "Choose Your Plan",
-    "description": "Temporary sample prices are listed below and can be adjusted after your preferred date, group size and route are confirmed.",
+    "description": "Choose from three courses based on the length of your evening.",
     "popular": "Most Popular",
+    "interpreterAddon": "Add one interpreter  +¥15,000",
     "plans": {
-      "half": {
-        "title": "Half Day",
-        "duration": "4 Hours",
-        "price": "From ¥20,000",
-        "point1": "Up to 5 people",
-        "point2": "Popular sights or food route",
-        "point3": "Local guide support"
+      "one": {
+        "title": "1-Hour Course",
+        "duration": "1 Hour",
+        "price": "¥20,000"
       },
-      "full": {
-        "title": "Full Day",
-        "duration": "8 Hours",
-        "price": "From ¥35,000",
-        "point1": "Up to 5 people",
-        "point2": "Custom itinerary",
-        "point3": "Sightseeing and local stops"
+      "three": {
+        "title": "3-Hour Course",
+        "duration": "3 Hours",
+        "price": "¥40,000"
       },
-      "custom": {
-        "title": "Custom Plan",
-        "duration": "Flexible Schedule",
-        "price": "Contact Us",
-        "point1": "Private route planning",
-        "point2": "Good for groups or special requests",
-        "point3": "Perfect when you need extra flexibility"
+      "five": {
+        "title": "5-Hour Course",
+        "duration": "5 Hours",
+        "price": "¥70,000"
       }
     },
     "included": {
@@ -152,16 +136,17 @@
   },
   "gallery": {
     "eyebrow": "Gallery",
-    "title": "Osaka Moments",
+    "title": "Osaka After Dark",
+    "description": "From discreet lounges and hidden late-night dining to seamless private pickup, discover a side of Osaka best experienced with someone who knows where to go.",
     "items": {
-      "dotonbori": "Dotonbori",
-      "castle": "Osaka Castle",
-      "shinsekai": "Shinsekai",
-      "umeda": "Umeda",
-      "food": "Osaka Street Food",
-      "izakaya": "Izakaya Night",
-      "shotengai": "Shopping Streets",
-      "skyline": "Night View"
+      "dotonbori": "Dotonbori After Dark",
+      "lounge": "Private Lounge",
+      "nightDistrict": "Hidden Night District",
+      "rooftop": "Rooftop Evening",
+      "lateDining": "After-Hours Dining",
+      "izakaya": "Local Night Spot",
+      "arrival": "Private Pickup",
+      "skyline": "Osaka After Hours"
     }
   },
   "reviews": {
@@ -232,24 +217,23 @@
   },
   "images": {
     "hero": "Dotonbori canal and Osaka nightlife",
-    "about": "Osaka Castle at dusk",
+    "about": "A local guide leading guests through Osaka at night",
     "contact": "Osaka bay night skyline",
     "services": {
-      "sightseeing": "Osaka sightseeing route",
-      "food": "Osaka local food experience",
-      "nightlife": "Osaka nightlife and bar hopping",
-      "cultural": "Osaka local cultural street",
-      "custom": "Custom Osaka guide route"
+      "nightGuide": "A local guide introducing guests to Osaka's upscale entertainment district",
+      "pickup": "Private evening pickup at an Osaka hotel",
+      "interpreter": "An interpreter supporting guests at an Osaka night venue"
     },
     "gallery": {
-      "dotonbori": "Dotonbori neon signs",
-      "castle": "Osaka Castle",
-      "shinsekai": "Shinsekai street",
-      "umeda": "Umeda city lights",
-      "food": "Osaka street food",
-      "izakaya": "Izakaya table at night",
-      "shotengai": "Osaka shopping arcade",
-      "skyline": "Osaka skyline at night"
+      "dotonbori": "Dotonbori canal lights after dark",
+      "hostessLounge": "Adult female hosts entertaining guests in a refined Osaka night lounge",
+      "lounge": "A refined private lounge in Osaka",
+      "nightDistrict": "A local guide leading guests through Osaka at night",
+      "rooftop": "A rooftop lounge overlooking Osaka at night",
+      "lateDining": "An exclusive late-night dining experience in Osaka",
+      "izakaya": "A hidden local night spot in Osaka",
+      "arrival": "Private evening pickup at an Osaka hotel",
+      "skyline": "Osaka city lights after hours"
     }
   }
 }
