@@ -108,6 +108,93 @@
     },
     "note": "Prices are temporary examples and may vary depending on season, schedule and requests."
   },
+  "afterDark": {
+    "eyebrow": "Signature Experience",
+    "title": "Experience Osaka After Dark",
+    "subtitle": "The Japanese Salaryman Night",
+    "hours": "8:00 PM – 4:00 AM | An Authentic Japanese Nightlife Experience",
+    "intro": {
+      "lead": "Forget the typical tourist route.",
+      "text1": "Tonight, we invite you to experience Japan after dark — the way a Japanese salaryman might spend an unforgettable night after work.",
+      "text2": "From Japanese food and drinks to an unforgettable night out, we will guide you throughout the night, take care of the transportation, and make sure you can simply relax and enjoy the experience."
+    },
+    "stops": {
+      "pickup": {
+        "time": "8:00 PM",
+        "title": "Private Pick-Up",
+        "text1": "Your night begins at 8:00 PM.",
+        "text2": "We pick you up from your hotel and take you into the heart of the city’s nightlife.",
+        "transferTime": "8:00 PM – 8:15 PM | Transfer",
+        "transferText": "On the way, we’ll talk about the night ahead and show you a different side of Japan."
+      },
+      "dinner": {
+        "time": "8:15 PM",
+        "title": "Authentic Japanese Dinner & Night Briefing",
+        "text1": "We begin the evening with a relaxed Japanese dinner.",
+        "text2": "Enjoy authentic Japanese cuisine while getting to know your guide and discussing the plans for the night.",
+        "text3": "This is also the time to go over the evening’s schedule, local customs, and a few simple rules and tips that will help you enjoy Japanese nightlife comfortably and confidently.",
+        "emphasis": "Good food. Good conversation. Then the real night begins.",
+        "transferTime": "9:15 PM – 9:30 PM | Transfer"
+      },
+      "luxury": {
+        "time": "9:30 PM",
+        "title": "Enter the World of Japanese Luxury Nightlife",
+        "text1": "Now it’s time to experience a side of Japanese nightlife that most tourists never see.",
+        "text2": "We take you to a high-end, top-rated nightlife venue, where you can enjoy an elegant atmosphere and spend time with some of the city’s most charming Japanese women.",
+        "text3": "This isn’t simply about visiting a nightlife venue.",
+        "text4": "It’s about experiencing the atmosphere, hospitality, conversation, and social culture that make Japanese nightlife so unique.",
+        "text5": "Relax, enjoy a drink, meet new people, and experience the kind of night that many visitors to Japan never get to see.",
+        "transferTime": "11:30 PM – 11:45 PM | Transfer"
+      },
+      "intimate": {
+        "time": "11:45 PM",
+        "title": "A More Intimate Side of Japanese Nightlife",
+        "text1": "As the night continues, we take things one step further.",
+        "text2": "Discover a more playful and intimate side of Japanese nightlife, where the atmosphere is relaxed, exciting, and a little more personal.",
+        "text3": "Enjoy lively conversation, playful interaction, and light physical contact within the venue’s rules.",
+        "text4": "It’s a completely different side of Japanese nightlife — one that most tourists would never discover on their own.",
+        "transferTime": "12:45 AM – 1:00 AM | Transfer"
+      },
+      "final": {
+        "time": "1:00 AM",
+        "title": "The Final Destination",
+        "text1": "It’s now past midnight.",
+        "text2": "The city is quieter, the night is deeper, and it’s time for the final chapter of your journey.",
+        "text3": "We take you to a destination carefully selected to bring your Japanese nightlife experience to its natural conclusion.",
+        "text4": "For many men, this is where an unforgettable night reaches its final chapter."
+      },
+      "lastDrink": {
+        "time": "2:30 AM",
+        "title": "One Last Drink & Your Night in Review",
+        "text1": "The night doesn’t necessarily have to end there.",
+        "text2": "If you’d like to continue, we can take you to one of our favorite late-night bars, lounges, or restaurants.",
+        "text3": "Enjoy one final drink, relax, and talk about the night.",
+        "text4": "If you’d like, your guide can also help you plan the rest of your trip in Japan — from restaurants and nightlife to places worth visiting during your stay.",
+        "text5": "We aim to make your entire trip, not just tonight, a better experience.",
+        "text6": "Around 4:00 AM, we will take you safely back to your hotel.",
+        "emphasis": "And that’s where our service ends."
+      }
+    },
+    "difference": {
+      "eyebrow": "The Complete Experience",
+      "title": "What Makes This Night Different?",
+      "items": {
+        "one": "Experience Japanese nightlife beyond the typical tourist spots",
+        "two": "Enjoy authentic Japanese cuisine",
+        "three": "Discover different sides of Japan’s nightlife culture",
+        "four": "Visit carefully selected, highly-rated venues",
+        "five": "Private transportation throughout the evening",
+        "six": "English-speaking guidance and cultural insights",
+        "seven": "Personalized recommendations for the rest of your trip",
+        "eight": "A complete 8-hour Japanese nightlife experience"
+      }
+    },
+    "closing": {
+      "time": "From 8 PM to 4 AM.",
+      "text": "One night. Multiple experiences. A side of Japan you won’t find in a guidebook.",
+      "cta": "Come with us and discover Japan After Dark"
+    }
+  },
   "how": {
     "eyebrow": "How It Works",
     "title": "From Booking to Your VIP Experience",
