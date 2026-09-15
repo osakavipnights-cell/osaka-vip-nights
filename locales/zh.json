@@ -75,25 +75,25 @@
   "pricing": {
     "eyebrow": "Pricing",
     "title": "选择价格方案",
-    "description": "可根据夜间行程时长选择三种课程。",
+    "description": "私人大阪夜生活体验，每组最多3位客人。每增加1位客人，费用为¥30,000。",
     "popular": "人气方案",
-    "interpreterAddon": "追加1名翻译  +¥15,000",
+    "interpreterAddon": "多语言沟通支持可根据需求提供。",
     "plans": {
       "one": {
-        "title": "1小时课程",
-        "duration": "1小时",
-        "price": "¥20,000"
-      },
+    "title": "3小时私人大阪夜生活体验",
+    "duration": "3小时・最多3位客人",
+    "price": "¥80,000"
+},
       "three": {
-        "title": "3小时课程",
-        "duration": "3小时",
-        "price": "¥40,000"
-      },
+    "title": "5小时私人大阪夜生活体验",
+    "duration": "5小时・最多3位客人",
+    "price": "¥100,000"
+},
       "five": {
-        "title": "5小时课程",
-        "duration": "5小时",
-        "price": "¥70,000"
-      }
+    "title": "追加客人",
+    "duration": "每增加1位",
+    "price": "+¥30,000"
+}
     },
     "included": {
       "title": "包含",

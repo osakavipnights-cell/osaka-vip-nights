@@ -75,25 +75,25 @@
   "pricing": {
     "eyebrow": "Pricing",
     "title": "요금 플랜",
-    "description": "저녁 일정 시간에 따라 세 가지 코스 중 선택할 수 있습니다.",
+    "description": "3시간 또는 5시간 프라이빗 오사카 나이트라이프 가이드 서비스를 이용하실 수 있습니다. 기본 요금은 최대 3명까지이며, 1명 추가 시 +¥30,000입니다.",
     "popular": "인기 플랜",
-    "interpreterAddon": "통역 1명 추가  +¥15,000",
+   "interpreterAddon": "추가 인원 1명 +¥30,000",
     "plans": {
       "one": {
-        "title": "1시간 코스",
-        "duration": "1시간",
-        "price": "¥20,000"
-      },
+    "title": "3시간 프라이빗 오사카 나이트라이프 체험",
+    "duration": "3시간 · 최대 3명",
+    "price": "¥80,000"
+},
       "three": {
-        "title": "3시간 코스",
-        "duration": "3시간",
-        "price": "¥40,000"
-      },
+    "title": "5시간 프라이빗 오사카 나이트라이프 체험",
+    "duration": "5시간 · 최대 3명",
+    "price": "¥100,000"
+},
       "five": {
-        "title": "5시간 코스",
-        "duration": "5시간",
-        "price": "¥70,000"
-      }
+    "title": "추가 인원",
+    "duration": "1명 추가",
+    "price": "+¥30,000"
+}
     },
     "included": {
       "title": "포함",

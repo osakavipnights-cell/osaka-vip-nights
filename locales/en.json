@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Osaka VIP Nights | Private Night Guide in Osaka",
-    "description": "Discover Osaka with a friendly local guide. Food, culture, nightlife and hidden gems tailored to your trip."
+    "title": "Osaka VIP Nights | Private Night Guide & Nightlife Experience in Osaka, Japan",
+    "description": "Experience Osaka after dark with Osaka VIP Nights. Private nightlife guide experiences for international travelers, including restaurants, bars, nightlife spots, reservations, transportation and local support."
   },
   "brand": {
     "name": "Osaka VIP Nights",
@@ -28,46 +28,46 @@
     "contactUs": "Contact Us"
   },
   "home": {
-    "eyebrow": "Private Osaka Guide Service",
-    "titleTop": "Experience Osaka",
-    "titleHighlight": "Like a Local",
-    "description": "Discover the real Osaka with a friendly local guide. Food, culture, nightlife and hidden gems are tailored to your pace and interests.",
+    "eyebrow": "Private Night Guide & Nightlife Experience in Osaka",
+    "titleTop": "Discover Osaka After Dark",
+    "titleHighlight": "With a Private Local Guide",
+    "description": "Experience the best of Osaka nightlife with a private local guide. Discover authentic Japanese restaurants, bars and unique nightlife experiences while enjoying personalized planning, reservations, transportation and local support.",
     "secondaryCta": "View Services"
   },
   "about": {
     "eyebrow": "About Us",
-    "title": "Your Osaka Night, Handled Locally",
-    "description": "We take care of venue selection, language support and evening transportation. A local coordinator guides you to places that suit your preferences, from hotel pickup through communication inside each venue.",
+    "title": "Your Osaka Night, Planned & Guided by a Local",
+    "description": "Experience Osaka nightlife with a private local guide who understands the city after dark. We help international travelers discover restaurants, bars and unique nightlife experiences based on their preferences, with personalized planning, reservations, transportation and language support from hotel pickup to the end of the evening.",
     "features": {
       "curated": {
-        "title": "Curated Night Spots",
+        "title": "Curated Osaka Nightlife Experiences",
         "text": "We suggest comfortable venues based on the atmosphere and experience you want."
       },
       "reliable": {
-        "title": "Discreet & Reliable",
+        "title": "Personalized & Reliable Local Support",
         "text": "Your coordinator supports the evening from the first meeting to the final stop."
       },
       "language": {
-        "title": "Language Support",
+        "title": "Multilingual Support for International Travelers",
         "text": "An interpreter helps communicate your requests smoothly inside each venue."
       }
     }
   },
   "services": {
     "eyebrow": "Services",
-    "title": "What We Offer",
-    "description": "Three simple services for a smooth and memorable night in Osaka.",
+    "title": "Private Osaka Nightlife Guide Services",
+    "description": "A private Osaka nightlife guide service designed for international travelers. We help you discover restaurants, bars and unique nightlife experiences with personalized planning, hotel pickup, reservations, transportation and language support.",
     "items": {
       "nightGuide": {
-        "title": "Nightlife Guidance",
+        "title": "Private Osaka Nightlife Guide",
         "text": "A local night guide introduces venues and areas suited to your preferences."
       },
       "pickup": {
-        "title": "Hotel Pickup",
+        "title": "Hotel Pickup & Transportation",
         "text": "We pick you up from your hotel when your evening begins."
       },
       "interpreter": {
-        "title": "Interpreter",
+        "title": "Language & Local Communication Support",
         "text": "An interpreter supports conversations and requests throughout the evening."
       }
     }
@@ -75,25 +75,25 @@
   "pricing": {
     "eyebrow": "Pricing",
     "title": "Choose Your Plan",
-    "description": "Choose from three courses based on the length of your evening.",
+    "description": "Private Osaka nightlife experiences for up to 3 guests, with additional guests available at ¥30,000 per person.",
     "popular": "Most Popular",
-    "interpreterAddon": "Add one interpreter  +¥15,000",
+    "interpreterAddon": "Multilingual support is available upon request.",
     "plans": {
       "one": {
-        "title": "1-Hour Course",
-        "duration": "1 Hour",
-        "price": "¥20,000"
+  "title": "3-Hour Private Osaka Nightlife Experience",
+  "duration": "3 Hours · Up to 3 Guests",
+  "price": "¥80,000"
       },
       "three": {
-        "title": "3-Hour Course",
-        "duration": "3 Hours",
-        "price": "¥40,000"
-      },
+  "title": "5-Hour Private Osaka Nightlife Experience",
+  "duration": "5 Hour · Up to 3 Guests",
+  "price": "¥100,000"
+},
       "five": {
-        "title": "5-Hour Course",
-        "duration": "5 Hours",
-        "price": "¥70,000"
-      }
+    "title": "Additional Guest",
+    "duration": "Per Person",
+    "price": "+¥30,000"
+}
     },
     "included": {
       "title": "Included",

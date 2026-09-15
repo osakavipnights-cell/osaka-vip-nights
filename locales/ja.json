@@ -75,25 +75,25 @@
   "pricing": {
     "eyebrow": "Pricing",
     "title": "料金プラン",
-    "description": "ご利用時間に合わせて3つのコースからお選びいただけます。",
+    "description": "1グループ3名までのプライベート大阪ナイト体験。追加のお客様は1名につき30,000円でご利用いただけます。",
     "popular": "人気プラン",
-    "interpreterAddon": "通訳1名追加　+¥15,000",
+   "interpreterAddon": "多言語サポートはご要望に応じて対応いたします。",
     "plans": {
       "one": {
-        "title": "1時間コース",
-        "duration": "1時間",
-        "price": "¥20,000"
-      },
-      "three": {
-        "title": "3時間コース",
-        "duration": "3時間",
-        "price": "¥40,000"
-      },
+    "title": "3時間プライベート大阪ナイト体験",
+    "duration": "3時間・3名まで",
+    "price": "¥80,000"
+},
+     "three": {
+    "title": "5時間プライベート大阪ナイト体験",
+    "duration": "5時間・3名まで",
+    "price": "¥100,000"
+},
       "five": {
-        "title": "5時間コース",
-        "duration": "5時間",
-        "price": "¥70,000"
-      }
+    "title": "追加のお客様",
+    "duration": "1名につき",
+    "price": "+¥30,000"
+}
     },
     "included": {
       "title": "含まれるもの",
